@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {},
     ".NETCoreApp,Version=v7.0/win10-x64": {
-      "Nume_Pren_Lab7/1.0": {
+      "sergiuavram/1.0": {
         "dependencies": {
           "Microsoft.Extensions.Configuration": "7.0.0",
           "Microsoft.Extensions.DependencyInjection": "7.0.0",
@@ -23,7 +23,7 @@
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.29"
         },
         "runtime": {
-          "Nume_Pren_Lab7.dll": {}
+          "sergiuavram.dll": {}
         }
       },
       "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/7.0.12": {
@@ -997,7 +997,7 @@
     }
   },
   "libraries": {
-    "Nume_Pren_Lab7/1.0": {
+    "sergiuavram/1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

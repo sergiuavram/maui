@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gr6Zd6O3wnKy/rwRJnDL3svP9ApJ3NEcQ/3KjFh50wYiDX2pvE79gHTXI/f/hPM0/rW6nsTPm4v9Nvi0N6klaA==",
+  "dgSpecHash": "JftKqLH1ABnwY1JuZDly5HJIYAr64lxJZsjFYeLTBPtn3u1nSZQef+S088uUC5p3d8epWLfTYd00ks/4l7dR0A==",
   "success": true,
-  "projectFilePath": "D:\\uni\\dotnet\\maui\\Nume_Pren_Lab7\\Nume_Pren_Lab7.csproj",
+  "projectFilePath": "D:\\uni\\dotnet\\maui\\Nume_Pren_Lab7\\sergiuavram.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\qx3\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\qx3\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

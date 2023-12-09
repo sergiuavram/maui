@@ -24024,9 +24024,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\uni\\dotnet\\maui\\Nume_Pren_Lab7\\Nume_Pren_Lab7.csproj",
-      "projectName": "Nume_Pren_Lab7",
-      "projectPath": "D:\\uni\\dotnet\\maui\\Nume_Pren_Lab7\\Nume_Pren_Lab7.csproj",
+      "projectUniqueName": "D:\\uni\\dotnet\\maui\\Nume_Pren_Lab7\\sergiuavram.csproj",
+      "projectName": "sergiuavram",
+      "projectPath": "D:\\uni\\dotnet\\maui\\Nume_Pren_Lab7\\sergiuavram.csproj",
       "packagesPath": "C:\\Users\\qx3\\.nuget\\packages\\",
       "outputPath": "D:\\uni\\dotnet\\maui\\Nume_Pren_Lab7\\obj\\",
       "projectStyle": "PackageReference",
